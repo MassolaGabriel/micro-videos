@@ -1,0 +1,65 @@
+TN:
+SF:src/category/domain/entities/category.ts
+FN:15,get name
+FN:19,get description
+FN:23,set description
+FN:27,get is_active
+FN:31,get created_at
+FN:9,Category
+FNF:6
+FNH:2
+FNDA:0,get name
+FNDA:0,get description
+FNDA:5,set description
+FNDA:0,get is_active
+FNDA:0,get created_at
+FNDA:5,Category
+DA:1,1
+DA:2,1
+DA:3,1
+DA:4,1
+DA:5,1
+DA:6,1
+DA:7,1
+DA:8,1
+DA:9,1
+DA:10,5
+DA:11,5
+DA:12,5
+DA:13,4
+DA:14,1
+DA:15,1
+DA:16,0
+DA:17,0
+DA:18,1
+DA:19,1
+DA:20,0
+DA:21,0
+DA:22,1
+DA:23,1
+DA:24,5
+DA:25,3
+DA:26,1
+DA:27,1
+DA:28,0
+DA:29,0
+DA:30,1
+DA:31,1
+DA:32,0
+DA:33,0
+DA:34,1
+DA:35,1
+DA:36,1
+DA:37,1
+DA:38,1
+DA:39,1
+LF:39
+LH:31
+BRDA:23,0,0,5
+BRDA:24,1,0,3
+BRDA:9,2,0,5
+BRDA:11,3,0,3
+BRDA:12,4,0,4
+BRF:5
+BRH:5
+end_of_record
